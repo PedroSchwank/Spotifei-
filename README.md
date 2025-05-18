@@ -79,7 +79,8 @@ src/
 ## 🖼️ Capturas de Tela
 
 ### 🔐 Tela de Login
-![Tela Login](prints/tela-login.png)
+![image](https://github.com/user-attachments/assets/c4a3d1b1-8830-43a0-b95d-49e0287953f2)
+
 
 ### 🆕 Tela de Cadastro
 ![Tela Cadastro](prints/tela-cadastro.png)
@@ -96,7 +97,7 @@ src/
 ### 📜 Tela de Histórico
 ![Tela Histórico](prints/tela-historico.png)
 
-> 📂 As imagens devem estar na pasta `/prints`. Crie a pasta e salve as capturas como `tela-login.png`, `tela-cadastro.png`, etc.
+
 
 ---
 
@@ -155,6 +156,7 @@ CREATE TABLE historico (
 
 ## 🙋 Autor
 
-**Pedro - Ciência da Computação @ FEI**  
-📧 [Seu e-mail aqui]  
+**Pedro Schwank - Ciência da Computação @ FEI**  
+📧 [unifpschwank@fei.edu.br]
+RA:22.125.074-9
 💼 Projeto acadêmico | 2025  
