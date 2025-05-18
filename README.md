@@ -81,23 +81,21 @@ src/
 ### 🔐 Tela de Login
 ![image](https://github.com/user-attachments/assets/c4a3d1b1-8830-43a0-b95d-49e0287953f2)
 
-
 ### 🆕 Tela de Cadastro
-![Tela Cadastro](prints/tela-cadastro.png)
+![image](https://github.com/user-attachments/assets/14d88247-426f-47a9-8478-47b85b736ae1)
 
 ### 🏠 Tela Principal
-![Tela Principal](prints/tela-principal.png)
+![image](https://github.com/user-attachments/assets/7b7c8015-5784-4280-b73b-2480251afa50)
 
 ### 🔍 Tela de Busca
-![Tela Busca](prints/tela-busca.png)
+![image](https://github.com/user-attachments/assets/ff632bfb-2136-4060-a768-f6d3cf1aea84)
 
 ### 🎧 Tela de Playlist
-![Tela Playlist](prints/tela-playlist.png)
+![image](https://github.com/user-attachments/assets/187e89ce-6147-46bc-abd5-e4dc89b8480a)
+![image](https://github.com/user-attachments/assets/d4d42be3-b10d-427d-91f4-ef8d5e83d100)
 
 ### 📜 Tela de Histórico
-![Tela Histórico](prints/tela-historico.png)
-
-
+![image](https://github.com/user-attachments/assets/eaa48778-4dc9-4053-aefe-c19f1fc11660)
 
 ---
 
